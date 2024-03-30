@@ -1,6 +1,6 @@
 {
   "name": "s24ami_todo_list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple Command Line Program for Todo List",
   "main": "index.js",
   "type": "module",
