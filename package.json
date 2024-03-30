@@ -1,0 +1,19 @@
+{
+  "name": "s24ami_todo_list",
+  "version": "1.0.0",
+  "description": "This is a simple Command Line Program for Todo List",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Abdul Sami",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
